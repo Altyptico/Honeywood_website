@@ -16,7 +16,7 @@ function showSlides(){
         slideIndex = 1;
     }
         slides[slideIndex-1].style.display = "block"; 
-        setTimeout(showSlides, 8000);//change image every 6 seconds
+        setTimeout(showSlides, 8000);//change image every 8 seconds
     
    
         

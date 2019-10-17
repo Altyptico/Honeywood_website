@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
     <html>
         <head>
             <!-- Slideshow Container -->
@@ -24,20 +24,14 @@
         </head>
         <body>
             <header>
-                <a href="index.html"><img class="header-logo" src="img/HONEYCOMBLOGO.png" alt="Honeywood logo";></a>
+                <a href="index.php"><img class="header-logo" src="img/HONEYCOMBLOGO.png" alt="Honeywood logo";></a>
             </header>
-           
             <nav>
                 <ul>
-                    <li><a href="about.html" alt="";>About</a> </li>
-                    <li><a href="investment.html" alt="";>Investment</a></li>
-                    <li><a href="inquiry.html" alt="";>Wedding Inquiry</a></li>
-                    <li><a href="contact.html" alt="";>Contact</a> </li>
-                    <li><a href="blog.html" alt="";>Blog</a></li>
-                    </ul>
+                    <li><a href="about.php" alt="";>About</a> </li>
+                    <li><a href="investment.php" alt="";>Investment</a></li>
+                    <li><a href="inquiry.php" alt="";>Wedding Inquiry</a></li>
+                    <li><a href="contact.php" alt="";>Contact</a> </li>
+                    <li><a href="blog.php" alt="";>Blog</a></li>
             </nav>
-            <br>
-            <br>
-            <h1>Welcome!</h1>
-        </body>
-    </html>
+            <div id="content">
